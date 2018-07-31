@@ -41,7 +41,7 @@ This function makes it practical to concatenate HTTP-like headers into a `char *
 This function parses the given parameters into a basic HTTP-like response and automatically allocates enough space for the `char *` address returned.
 
 ## License and usage
-Tinfin is **open source** currently under the GPL 3.0 [license](#https://github.com/phtdacosta/tinfin/blob/master/LICENSE).
+Tinfin is **open source** currently under the GPL 3.0 [license](https://github.com/phtdacosta/tinfin/blob/master/LICENSE).
 *Any specific use for the project will probably require code changes.*
   
 ### Contributions
