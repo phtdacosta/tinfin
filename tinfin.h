@@ -3,6 +3,8 @@
 
 #include <stdint.h>
 
+#define TINFIN_BUILD_VERSION "1.0.0"
+
 // The function ExecuteRoute will receive an instance of the struct request_t
 // and will actively find which stored route the resource address owns to,
 // then, if found, the ExecuteRoute function will finally call the function
